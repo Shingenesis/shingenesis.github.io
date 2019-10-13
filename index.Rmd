@@ -3,6 +3,7 @@ title: "shingenesis_website"
 author: "Manfredo Novella"
 date: "13-10-2019"
 output: html_document
+theme: spacelab
 ---
 
 ```{r setup, include=FALSE}
