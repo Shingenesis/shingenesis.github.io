@@ -10,6 +10,8 @@ output:
     toc_float: true
 ---
 
+![](img/shingenesis.png){width=100px}
+
 ## About
 
 Hi! my name is Manfredo Novella. I am a chilean electric engineer with a master degree in networks and telecommunications.
